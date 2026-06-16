@@ -1,0 +1,14 @@
+Day 1: Palindrome Number
+Problem Statement
+
+Given an integer n, determine whether it is a palindrome.
+
+A palindrome reads the same forwards and backwards.
+
+Examples
+Input: 121
+Output: Palindrome
+Input: 123
+Output: Not Palindrome
+Input: 1221
+Output: Palindrome
