@@ -1,0 +1,21 @@
+Day 2: Armstrong Number
+Problem Statement
+
+A number is called an Armstrong Number if the sum of the cubes of its digits equals the number itself.
+
+Example 1
+Input: 153
+
+Output:
+153 is an Armstrong Number
+
+Because:
+
+1³ + 5³ + 3³
+= 1 + 125 + 27
+= 153
+Example 2
+Input: 123
+
+Output:
+123 is not an Armstrong Number
