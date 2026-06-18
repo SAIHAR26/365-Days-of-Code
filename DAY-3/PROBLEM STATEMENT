@@ -1,0 +1,16 @@
+Day 3: Prime Number
+Problem Statement
+
+Given a positive integer n, determine whether it is a Prime Number.
+
+A prime number has exactly two factors:
+
+1
+Itself
+Examples
+Input: 7
+Output: Prime Number
+Input: 10
+Output: Not Prime Number
+Input: 13
+Output: Prime Number
