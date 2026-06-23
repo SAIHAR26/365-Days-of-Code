@@ -1,0 +1,31 @@
+Day 6: GCD (Greatest Common Divisor)
+Problem Statement
+
+Given two positive integers, find their Greatest Common Divisor (GCD).
+
+The GCD is the largest number that divides both numbers exactly.
+
+Example 1
+Input:
+12 18
+
+Output:
+6
+
+Factors of 12:
+
+1 2 3 4 6 12
+
+Factors of 18:
+
+1 2 3 6 9 18
+
+Greatest common factor:
+
+6
+Example 2
+Input:
+15 25
+
+Output:
+5
